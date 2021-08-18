@@ -1,0 +1,64 @@
+/* Global */
+
+::root {
+    --primary-color: #FFFFFF;
+    --accent-color: #FF634D;
+    --transparent-color: rgba(0,0,0,0);
+}
+
+/* Core components by type */
+
+Label {
+    color: var(--primary-color);
+}
+
+/* Component parts by component */
+
+.components-bar__container {
+    overflow: hidden;
+    border-color: var(--primary-color);
+    border-width: 1px;
+    border-radius: 2px;
+}
+.components-bar__progress {
+    min-height: 10px;
+    background-color: var(--primary-color);
+}
+
+.components-circle__container {
+    background-color: var(--transparent-color);
+    border-color: var(--primary-color);
+    border-width: 1px;
+    border-radius: 2px;
+}
+
+.components-gameclock__container {
+    min-width: 50px;
+}
+
+/* Custom parts */
+
+.test-bar__screen {
+    background-color: var(--accent-color);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    flex-shrink: 0;
+    flex-grow: 1;
+    left: 0;
+}
+
+.test-bar__container {
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-direction: row;
+    align-content: center;
+    -unity-text-align: middle-center;
+    justify-content: space-around;
+}
+
+.test-bar__container > * {
+    flex-grow: 1;
+    flex-shrink: 0;
+    padding: 0 2px 0 2px;
+}

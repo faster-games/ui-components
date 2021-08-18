@@ -1,0 +1,16 @@
+{
+    "name": "FasterGames.UI.Components.Bindings",
+    "rootNamespace": "FasterGames.UI.Components.Bindings",
+    "references": [
+        "GUID:3cac2aec332b93d458f7b7d72271b7f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

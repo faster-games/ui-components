@@ -1,0 +1,23 @@
+{
+  "name": "com.faster-games.ui-components",
+  "version": "1.0.0",
+  "displayName": "UI Components",
+  "description": "A set of UI components for Unity's new UI Toolkit framework. 🎛🖊",
+  "unity": "2020.3",
+  "unityRelease": "13f1",
+  "documentationUrl": "https://ui-components.faster-games.com/",
+  "changelogUrl": "https://github.com/faster-games/ui-components/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/faster-games/ui-components/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.unity.ui": "1.0.0-preview.16"
+  },
+  "keywords": [
+    "faster-games",
+    "ui"
+  ],
+  "author": {
+    "name": "Ben Greenier",
+    "email": "ben+faster-games@bengreenier.com",
+    "url": "https://bengreenier.com"
+  }
+}
