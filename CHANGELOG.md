@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/faster-games/ui-components/compare/v1.0.2...v1.0.3) (2021-08-18)
+
+
+### Bug Fixes
+
+* **asmdef:** fix [#3](https://github.com/faster-games/ui-components/issues/3) 🐛 ([af55bf5](https://github.com/faster-games/ui-components/commit/af55bf5ff2505e8806ba986d04c5a3920ebf117c))
+
 ## [1.0.2](https://github.com/faster-games/ui-components/compare/v1.0.1...v1.0.2) (2021-08-18)
 
 
