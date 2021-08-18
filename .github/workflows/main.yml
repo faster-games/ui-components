@@ -75,7 +75,7 @@ jobs:
         with:
           email: ben@bengreenier.com
           build_dir: dist/docs
-          cname: t4.faster-games.com
+          cname: ui-components.faster-games.com
           jekyll: no
       - name: Publish Release
         uses: codfish/semantic-release-action@v1
