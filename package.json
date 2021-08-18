@@ -1,6 +1,6 @@
 {
   "name": "com.faster-games.ui-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "UI Components",
   "description": "A set of UI components for Unity's new UI Toolkit framework. 🎛🖊",
   "unity": "2020.3",
