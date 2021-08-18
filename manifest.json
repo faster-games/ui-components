@@ -1,0 +1,551 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation~/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation~/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation~/header.png",
+      "output": {
+        "resource": {
+          "relative_path": "header.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation~/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "4e2UlJU8qxrNAzhpp9cVkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Documentation~/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation~/manual/contributing.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/contributing.html",
+          "hash": "823bBQh6LzYYm73RlqoFuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation~/manual/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/getting-started.html",
+          "hash": "suzJM48io915QHMmEya4Xg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation~/manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "3jsvwpm19LiWd+Dp0gBi3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Documentation~/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "L5v7bpnzxDjD0QrS8+HDeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "hQBFCZJy7MxwxRl+FNA6AQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Bar.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Bar.UxmlFactory.html",
+          "hash": "Qkm5MTJPVHE2ZFPBvSs3CQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Bar.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Bar.UxmlTraits.html",
+          "hash": "W6hhxiQuD0M+WePINspMIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Bar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Bar.html",
+          "hash": "Qp+qefm7RtncHoJZ/rlq+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Bindings.BarBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Bindings.BarBinding.html",
+          "hash": "28VKHHRbTSV/swnOuNNIqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Bindings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Bindings.html",
+          "hash": "9mw6G327mPnPxGCRgLcMbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Circle.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Circle.UxmlFactory.html",
+          "hash": "0/7GpZV04ArCW/DJhutYjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Circle.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Circle.UxmlTraits.html",
+          "hash": "2u6+xneSmnrhMajZa75EoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Circle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Circle.html",
+          "hash": "k7Hcf/N/8fdVngW8P8iYrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Extensions.ThreadWorkerPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Extensions.ThreadWorkerPool.html",
+          "hash": "OehlpqsxLpYqWpr3/ATyzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Extensions.ThreadWorkerPoolExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Extensions.ThreadWorkerPoolExtensions.html",
+          "hash": "V99+ij5B0NjZr+E/HtRqpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Extensions.html",
+          "hash": "nICbrtJfOodvGy0duYjKMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.GameClock.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.GameClock.UxmlFactory.html",
+          "hash": "meCFDY2bHaqdn2ZuRQY8MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.GameClock.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.GameClock.UxmlTraits.html",
+          "hash": "4zjwhWH3aVGiTVvdW9JhAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.GameClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.GameClock.html",
+          "hash": "Y1aL8qWHc4NE5PkjnaJVIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.HBox.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.HBox.UxmlFactory.html",
+          "hash": "8pTsBPDb2rOo9oO1+c5FLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.HBox.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.HBox.UxmlTraits.html",
+          "hash": "KZQsKbBivhfPaCFtxiPK2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.HBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.HBox.html",
+          "hash": "9XxjnxvR3BGDEeU54DeVWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.HBoxR.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.HBoxR.UxmlFactory.html",
+          "hash": "u9msySqnpiyVh19cQsAEoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.HBoxR.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.HBoxR.UxmlTraits.html",
+          "hash": "serPHlpRDtHHGzc896idsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.HBoxR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.HBoxR.html",
+          "hash": "z3UaofgmN/zw2KG+8sng6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Image.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Image.UxmlFactory.html",
+          "hash": "+2FXw1VZKfBjhm2cnyBSJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Image.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Image.UxmlTraits.html",
+          "hash": "rcWXyVmHSIXA2XN023Np2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.Image.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.Image.html",
+          "hash": "esBXMgX8r4oirmB+ksw3tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.VBox.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.VBox.UxmlFactory.html",
+          "hash": "KqslUOx3atCs1ZpuK5rhag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.VBox.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.VBox.UxmlTraits.html",
+          "hash": "OCEfKOBQSeDK7uKxzJBVtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.VBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.VBox.html",
+          "hash": "Rr/X7ilXkNJzAjWT4yGseQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.VBoxR.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.VBoxR.UxmlFactory.html",
+          "hash": "99jddF50DrOlxCfgC3k7wQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.VBoxR.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.VBoxR.UxmlTraits.html",
+          "hash": "yRdeLmeO1q0072HiTKJ/cA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.VBoxR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.VBoxR.html",
+          "hash": "qFEschdkjrGdPc3brKA00g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dist/.tmp/ref/FasterGames.UI.Components.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/FasterGames.UI.Components.html",
+          "hash": "eBPPb5JkjbZKJvF/bqDo1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "dist/.tmp/ref/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ref/toc.html",
+          "hash": "+CY1tgNvnX1cIP8EcdFB9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 30,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
